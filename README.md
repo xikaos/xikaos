@@ -1,16 +1,18 @@
-### Hi there 👋
+# Francisco Budaszewski Zanatta
 
-<!--
-**xikaos/xikaos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Passionate about software and the impact it has in our lives. Currently working for Lunkes Turismo. #OpenForWork
 
-Here are some ideas to get you started:
+## What am I doing?
+* Building web applications using Laravel and Vue for my current employer.
+* Build web applications using ApostropheCMS and Node in my freelance projects.
+* Studying React / React Native, Clean Code and functional programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+I have many projects here for historical reasons. The ones I like to mention are:
+* [proffy](https://github.com/xikaos/proffy)
+* [opt-app-js](https://github.com/xikaos/otp-app-js)
+
+
+## Contact
+* [LinkedIn](https://www.linkedin.com/in/francisco-budaszewski-zanatta-48ba92123/)
