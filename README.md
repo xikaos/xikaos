@@ -13,8 +13,9 @@ For a more accurate description about my working experiences, take a look at my 
 
 ## Projects
 I have many projects here for historical reasons. The ones I like to mention are:
-* [proffy](https://github.com/xikaos/proffy)
-* [opt-app-js](https://github.com/xikaos/otp-app-js)
+* [proffy](https://github.com/xikaos/proffy) - React / TypeScript
+* [marvel-app](https://github.com/apollographql/apollo/pull/963) - React / TypeScript / GraphQL
+* [opt-app-js](https://github.com/xikaos/otp-app-js) - Vue / Node
 
 
 ## Contact
