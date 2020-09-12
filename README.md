@@ -1,12 +1,12 @@
 # Francisco Budaszewski Zanatta
 
 ## About Me
-Passionate about software and the impact it has in our lives. Currently working for Lunkes Turismo. #OpenForWork
+Passionate about software and the impact it has in our lives. Currently working for UOL EdTech.
 
 ## What am I doing?
 * Building web applications using Laravel and Vue for my current employer.
 * Build web applications using ApostropheCMS and Node in my freelance projects.
-* Studying React, Clean Code and functional programming.
+* Studying Laravel, Vue, Clean Code/Architecture and best practices.
 
 ## What have I done?
 For a more accurate description about my working experiences, take a look at my [LinkedIn](https://www.linkedin.com/in/francisco-budaszewski-zanatta-48ba92123/).
