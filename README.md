@@ -6,7 +6,7 @@ Passionate about software and the impact it has in our lives. Currently working 
 ## What am I doing?
 * Building web applications using Laravel and Vue for my current employer.
 * Studying Laravel, Vue, Clean Code/Architecture, best practices and application security.
-* Taking care of my bonsai collection, cooking, and playing some music.
+* Taking care of my bonsai collection, cooking, playing some games and music.
 
 ## What have I done?
 For a more accurate description about my working experiences, take a look at my [LinkedIn](https://www.linkedin.com/in/francisco-budaszewski-zanatta-48ba92123/).
