@@ -1,7 +1,7 @@
 # Francisco Budaszewski Zanatta
 
 ## About Me
-Passionate about software and the impact it has in our lives. Currently working for UOL EdTech.
+Passionate about software and the impact it has in our lives. Currently working for Dextra.
 
 ## What am I doing?
 * Building web applications using Laravel and Vue for my current employer.
