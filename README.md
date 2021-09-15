@@ -4,7 +4,7 @@
 Passionate about software and the impact it has in our lives. Currently working for Dextra.
 
 ## What am I doing?
-* Building web applications using Laravel and Vue for my current employer.
+* Building web applications using Yii for my current employer.
 * Studying Laravel, Vue, Clean Code/Architecture, best practices and application security.
 * Taking care of my bonsai collection, cooking, playing some games and music.
 
