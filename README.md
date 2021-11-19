@@ -1,7 +1,7 @@
 # Francisco Budaszewski Zanatta
 
 ## About Me
-Passionate about software and the impact it has in our lives. Currently working for Dextra.
+Passionate about software and the impact it has in our lives. Currently working for Dextra/CINQ.
 
 ## What am I doing?
 * Building web applications using Yii for my current employer.
