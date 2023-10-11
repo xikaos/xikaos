@@ -15,7 +15,7 @@ For a more accurate description about my working experiences, take a look at my 
 I have many projects here for historical reasons. The ones I like to mention are:
 * [lilbank](https://github.com/xikaos/lilbank) - PHP (Laravel)
 * [proffy](https://github.com/xikaos/proffy) - React / TypeScript
-* [marvel-app](https://github.com/apollographql/apollo/pull/963) - React / TypeScript / GraphQL
+* [marvel-app](https://github.com/xikaos/marvel-app) - React / TypeScript / GraphQL
 * [opt-app-js](https://github.com/xikaos/otp-app-js) - Vue / Node
 
 
