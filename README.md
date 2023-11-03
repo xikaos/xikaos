@@ -1,11 +1,11 @@
 # Francisco Budaszewski Zanatta
 
 ## About Me
-Passionate about software and the impact it has on our lives. Currently working for CI&T.
+Passionate about software and the impact it has on our lives. Currently working for Tiny ERP by Olist.
 
 ## What am I doing?
-* Building web applications using Yii for my current employer.
-* Studying Laravel, Vue, Clean Code/Architecture, best practices, and application security.
+* Building web applications using PHP, Node and React.
+* Studying Software Design and Architecture.
 * Taking care of my bonsai collection, cooking, playing some games and [music](https://open.spotify.com/artist/5KrImsqhLcISL1Q5g9IJ9m).
 
 ## What have I done?
