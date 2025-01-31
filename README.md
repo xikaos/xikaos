@@ -1,7 +1,7 @@
 # Francisco Budaszewski Zanatta
 
 ## About Me
-Passionate about software and the impact it has on our lives. Currently working for Tiny ERP by Olist.
+Passionate about software and the impact it has on our lives. Currently working for Olist.
 
 ## What am I doing?
 * Building web applications using PHP, Node and React.
