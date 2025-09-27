@@ -1,10 +1,10 @@
 # Francisco Budaszewski Zanatta
 
 ## About Me
-Passionate about software and the impact it has on our lives. Currently working for Olist.
+Passionate about software and the impact it has on our lives. Currently working for NG.CASH.
 
 ## What am I doing?
-* Building web applications using PHP, Node and React.
+* Building web applications.
 * Studying Software Design and Architecture.
 * Taking care of my bonsai collection, cooking, playing some games and [music](https://open.spotify.com/artist/5KrImsqhLcISL1Q5g9IJ9m).
 
